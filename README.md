@@ -1,1 +1,10 @@
 # envs
+
+| キー           | 値                                   |
+|----------------|--------------------------------------|
+| APP_VERSION    | 1.0.0                                |
+| API_URL        | https://dev.hohehohe.com/v1-0-0      |
+| CORS_ENABLE    | 1                                    |
+| TIMEOUT        | 60000                                |
+| PORT           | 3000                                 |
+| TARGET_ORIGIN  | *                                    |
